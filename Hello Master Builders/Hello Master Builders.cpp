@@ -7,6 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
     std::cout << "Change made directly on Github\n";
+    std::cout << "A 2nd change made on Github\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
