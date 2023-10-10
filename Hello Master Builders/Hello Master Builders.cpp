@@ -7,6 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
     std::cout << "Change made directly on Github\n";
+    std::cout << "world\n";
     std::cout << "A 2nd change made on Github - now merged\n";
     std::cout << "Trevor's change made on prof's local pc\n";
 }
