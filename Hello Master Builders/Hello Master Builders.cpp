@@ -15,6 +15,7 @@ int main()
     std::cout << "Make a change on the mbuild-52 branch\n";
     std::cout << "Make a change on Master\n";
     std::cout << "Make a rebase prep change on mbuild-52\n";
+    std::cout << "Make a 2nd change on Master\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
